@@ -1,4 +1,6 @@
 console.log("Hello World!");
 console.debug("szia Roland!");
 
-console.log("Ricsi egy igazi pro.");
+process.stdout.write("Teszt");
+
+console.log("Valamit");
