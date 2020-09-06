@@ -1,8 +1,34 @@
-console.log("Hello World!");
-console.debug("szia Roland!");
+// JavaScript, nodejs
+let valtozo2 = 3241;
+let valtozo = "Hello World";
+valtozo = 3;
+console.log(valtozo, typeof valtozo, valtozo2, valtozo);
 
-console.log("Ricsi egy igazi pro. Lehetne");
-process.stdout.write("Teszt");
+let valtozo3;
+console.log(typeof valtozo3);
+console.log(valtozo3);
+valtozo3 = "Roland";
+console.log(typeof valtozo3);
+console.log(valtozo3);
+let osszeadas = 16;
+let osszeadas2 = 43;
+let szorzas = 4.5;
+let szorzas2 = 4;
+let osszeg = osszeadas + osszeadas2;
+let szorzat = szorzas * szorzas2;
+let vege = osszeg + szorzat;
+// + - * /
+console.log(NaN, typeof NaN);
 
-console.log("Valamit");
-console.group("így is jó lesz");
+let Nev = "Ricsi";
+console.log("Hello " + Nev + "!");
+
+let otvenot = Number("55");
+console.log(typeof otvenot);
+
+/*function kiir()
+{
+    console.log("Valami");
+}
+
+kiir();*/

@@ -1,0 +1,25 @@
+{
+  "name": "lesson",
+  "version": "1.0.0",
+  "description": "0000",
+  "main": "1.js",
+  "scripts": {
+    "test": "node 1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowp4p3sz/lesson.git"
+  },
+  "keywords": [
+    "lesson"
+  ],
+  "author": "Richard Bakonyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowp4p3sz/lesson/issues"
+  },
+  "homepage": "https://github.com/shadowp4p3sz/lesson#readme",
+  "dependencies": {
+    "ricsi-getinput": "git+https://github.com/asec/ricsi-getInput.git"
+  }
+}
