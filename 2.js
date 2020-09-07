@@ -3,6 +3,7 @@ const { type } = require("os");
 
 async function main()
 {
+    console.log(getInput)
     let name = await getInput("Kérlek add meg a Neved: ");
     let date = Number(await getInput("kérlek add meg a korod"));
     console.log(typeof date);
