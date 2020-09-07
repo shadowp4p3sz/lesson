@@ -25,8 +25,9 @@ console.log("Hello " + Nev + "!");
 
 let otvenot = Number("55");
 console.log(typeof otvenot);
-let Nikol = "Nikol";
-console.log(Nikol + Nev + "<3");
+let nev2 = "Nikol";
+console.log(nev2 + Nev + "<3");
+
 /*function kiir()
 {
     console.log("Valami");
