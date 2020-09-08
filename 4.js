@@ -1,6 +1,6 @@
-    const getinput = require("ricsi-getinput");
+const getinput = require("ricsi-getinput");
 
-    async function main()
+async function main()
     {
     let szam1 = Number(await getinput("Kérlek adj meg egy számot"));
     let szam2 = Number(await getinput("kérlek adj meg egy számot"));
@@ -13,4 +13,4 @@
 
     process.exit();
     }
-    main();
+main();
