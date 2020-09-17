@@ -2,9 +2,9 @@
   "name": "lesson",
   "version": "1.0.0",
   "description": "0000",
-  "main": "1.js",
+  "main": "6.js",
   "scripts": {
-    "test": "node 1.js"
+    "test": "node 6.js"
   },
   "repository": {
     "type": "git",
